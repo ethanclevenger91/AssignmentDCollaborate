@@ -35,7 +35,7 @@ public class MainActivity extends Activity {
 				startActivity(intent);
 			}
 		});
-		buttonToThird = (Button) findViewById(R.id.buttonToThird);
+		buttonToThird = (Button) findViewById(R.id.button2);
 		buttonToThird.setOnClickListener(new OnClickListener() {
 			@Override
 			public void onClick(View v) {
