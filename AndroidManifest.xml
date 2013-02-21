@@ -26,6 +26,10 @@
             android:name="edu.Drake.assignmentdcollaborate.SecondActivity"
             android:label="@string/title_activity_second" >
         </activity>
+        <activity
+            android:name="edu.Drake.assignmentdcollaborate.ThirdActivity"
+            android:label="@string/title_activity_third" >
+        </activity>
     </application>
 
 </manifest>
